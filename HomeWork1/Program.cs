@@ -1,5 +1,7 @@
 ﻿using System;
 
+//Austin Hyer
+//1-18-2023
 //This program simulates rolling two dice a given number of times. It asks the user for the number of rolls and then displays the distribution
 //of the dice rolls in a histogram-esque output.
 namespace HomeWork1
